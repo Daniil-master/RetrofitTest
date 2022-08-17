@@ -2,7 +2,7 @@ package com.daniilmaster.retrofittest.utils
 
 class Constants {
 
-    companion object{
+    companion object {
         const val BASE_URL = "https://jsonplaceholder.typicode.com"
     }
 }
